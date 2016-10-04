@@ -36,7 +36,7 @@ CACHEMOD=false
 
 # This will be the folder name under /magisk or /cache/magisk
 # This should also be the same as the id in your module.prop to prevent confusion
-MODID=iosEmoji-Systemless
+MODID=iOSEmoji-Systemless
 
 # Set to true if you need automount
 # Most mods would like it to be enabled
@@ -59,7 +59,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     iosEmoji-systemless       "
+  ui_print "     iOSEmoji-systemless       "
   ui_print "   Thanks to topjohnwu on XDA  "
   ui_print "   for the template and guide  "
   ui_print "*******************************"
