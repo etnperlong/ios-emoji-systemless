@@ -1,9 +1,9 @@
 id=iOSEmoji-Systemless
 name=Systemless iOS Emoji
-version=v1
+version=v1.1
 versionCode=1
 author=casual_kikoo
 description=Replace Android Emoji with iOS' one, systemwide
-support=
+support=http://forum.xda-developers.com/apps/magisk/magisk-systemless-ios-emoji-t3474122
 donate=
 cacheModule=false
